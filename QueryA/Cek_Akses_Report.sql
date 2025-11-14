@@ -1,5 +1,3 @@
---USE WSS_Content_fdf313d767584a3faf5643748db7c279  
--- IP 10.240.50.50
 WITH T1 AS(
 select distinct 
     Username 
